@@ -1,13 +1,14 @@
 #myBox
 {
-    width: 200px;
-    height: 300px;
+    width: 343px;
+    height: 60px;
     background-color: black;
+    border-radius: 4px;
 }
 
 .allFonts
 {
-    color: darkorange;
+    color: gold;
     font-style: unset;
     font-size: 20px ;
     font-family: cursive;
@@ -21,5 +22,5 @@ body
 h1
 {
     font-size: 50px;
-    color: black;
+    color: snow;
 }
