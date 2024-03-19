@@ -1,0 +1,25 @@
+#myBox
+{
+    width: 200px;
+    height: 300px;
+    background-color: black;
+}
+
+.allFonts
+{
+    color: darkorange;
+    font-style: unset;
+    font-size: 20px ;
+    font-family: cursive;
+}
+
+body
+{
+    background-color: darkcyan;
+}
+
+h1
+{
+    font-size: 50px;
+    color: black;
+}
