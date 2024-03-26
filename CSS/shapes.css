@@ -6,6 +6,8 @@
     border-radius: 3px;
     border-style: solid;
     border-width: 10px;
+    animation-name: box1;
+    animation-duration: 5s;
 }
 
 #Box2
@@ -32,4 +34,10 @@
     position:absolute; 
     left:160px; 
     top: 109px;
+}
+
+@keyframes box1 
+{
+    from{background-color: rgb(0, 153, 255);}
+    to{background-color: darkgrey;}
 }
