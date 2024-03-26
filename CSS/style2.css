@@ -16,6 +16,9 @@
     border-radius: 100px;
     border-style: solid;
     border-width: 10px;
+    position:absolute; 
+    left:200px; 
+    top: 7px;
 }
 
 #Box3
@@ -26,4 +29,7 @@
     border-radius: 100px;
     border-style: solid;
     border-width: 10px;
+    position:absolute; 
+    left:160px; 
+    top: 109px;
 }
