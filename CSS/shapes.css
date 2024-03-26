@@ -1,0 +1,29 @@
+#Box1
+{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(0, 153, 255);
+    border-radius: 3px;
+    border-style: solid;
+    border-width: 10px;
+}
+
+#Box2
+{
+    width: 90px;
+    height: 90px;
+    background-color: rgb(248, 244, 2);
+    border-radius: 100px;
+    border-style: solid;
+    border-width: 10px;
+}
+
+#Box3
+{
+    width: 140px;
+    height: 140px;
+    background-color: rgb(248, 2, 2);
+    border-radius: 100px;
+    border-style: solid;
+    border-width: 10px;
+}

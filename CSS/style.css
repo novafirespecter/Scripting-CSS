@@ -1,3 +1,13 @@
+.grid-container
+{
+    display: grid;
+}
+
+.grid-container
+{
+    display: -moz-inline-grid;
+}
+
 #myBox
 {
     width: 343px;
